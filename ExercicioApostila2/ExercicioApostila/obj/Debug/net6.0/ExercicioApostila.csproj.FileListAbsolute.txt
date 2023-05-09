@@ -1,0 +1,15 @@
+C:\Users\wesle\source\repos\ExercicioApostila\ExercicioApostila\bin\Debug\net6.0\ExercicioApostila.exe
+C:\Users\wesle\source\repos\ExercicioApostila\ExercicioApostila\bin\Debug\net6.0\ExercicioApostila.deps.json
+C:\Users\wesle\source\repos\ExercicioApostila\ExercicioApostila\bin\Debug\net6.0\ExercicioApostila.runtimeconfig.json
+C:\Users\wesle\source\repos\ExercicioApostila\ExercicioApostila\bin\Debug\net6.0\ExercicioApostila.dll
+C:\Users\wesle\source\repos\ExercicioApostila\ExercicioApostila\bin\Debug\net6.0\ExercicioApostila.pdb
+C:\Users\wesle\source\repos\ExercicioApostila\ExercicioApostila\obj\Debug\net6.0\ExercicioApostila.csproj.AssemblyReference.cache
+C:\Users\wesle\source\repos\ExercicioApostila\ExercicioApostila\obj\Debug\net6.0\ExercicioApostila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesle\source\repos\ExercicioApostila\ExercicioApostila\obj\Debug\net6.0\ExercicioApostila.AssemblyInfoInputs.cache
+C:\Users\wesle\source\repos\ExercicioApostila\ExercicioApostila\obj\Debug\net6.0\ExercicioApostila.AssemblyInfo.cs
+C:\Users\wesle\source\repos\ExercicioApostila\ExercicioApostila\obj\Debug\net6.0\ExercicioApostila.csproj.CoreCompileInputs.cache
+C:\Users\wesle\source\repos\ExercicioApostila\ExercicioApostila\obj\Debug\net6.0\ExercicioApostila.dll
+C:\Users\wesle\source\repos\ExercicioApostila\ExercicioApostila\obj\Debug\net6.0\refint\ExercicioApostila.dll
+C:\Users\wesle\source\repos\ExercicioApostila\ExercicioApostila\obj\Debug\net6.0\ExercicioApostila.pdb
+C:\Users\wesle\source\repos\ExercicioApostila\ExercicioApostila\obj\Debug\net6.0\ExercicioApostila.genruntimeconfig.cache
+C:\Users\wesle\source\repos\ExercicioApostila\ExercicioApostila\obj\Debug\net6.0\ref\ExercicioApostila.dll
